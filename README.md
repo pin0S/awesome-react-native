@@ -2,6 +2,16 @@
 
 ✨ React Native Projects built by individuals or small teams that make your 👀 pop ✨
 
+```
+### Template
+
+**Description:** Helps you find food matches with friends. 
+
+Reddit Link: [here]
+App store: [here]
+Play store: [here]
+```
+
 ## Apps
 
 ### Let's Fork
@@ -33,12 +43,17 @@ Website: [here](https://www.lineup.events/)
 Reddit Link: [here](https://www.reddit.com/r/reactnative/comments/hlqsjq/i_made_an_app_to_track_the_books_you_read/)
 Play store: [here](https://play.google.com/store/apps/details?id=com.traquer)
 
-```
-### Template
+### Tinflix US
 
-**Description:** Helps you find food matches with friends. 
+**Description:** Tinder for movies and TV shows. 
 
-Reddit Link: [here]
-App store: [here]
-Play store: [here]
-```
+Reddit Link: [here](https://www.reddit.com/r/reactnative/comments/hedj4r/ive_made_a_tinder_like_app_for_netflix_movies_and/)
+Play store: [here](https://play.google.com/store/apps/details?id=com.netflixswipeapp)
+
+### Stylix
+
+**Description:** App that uses AI to let you try clothes on without having to get off the couch. 
+
+Reddit Link: [here](https://www.reddit.com/r/reactnative/comments/sc9m0j/i_made_this_app_using_react_native_that_let_you/)
+Play store: [here](https://play.google.com/store/apps/details?id=com.TeamBacon.Stylix)
+
