@@ -66,4 +66,14 @@ App store: [here](https://apps.apple.com/us/app/id1523579231)
 Play store: [here](https://play.google.com/store/apps/details?id=app.jeti)
 Website: [here](https://jeti.app/)
 
+### Familiar
+
+**Description:** Deep fake yourself into gifs. 
+
+Currently not available on app stores.
+
+Reddit Link: [here](https://www.reddit.com/r/reactnative/comments/fdywtn/recently_released_a_deepfake_gifs_app_built_with/)
+Product hunt link: [here](https://www.producthunt.com/products/familiar)
+
+
 
