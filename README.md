@@ -57,3 +57,13 @@ Play store: [here](https://play.google.com/store/apps/details?id=com.netflixswip
 Reddit Link: [here](https://www.reddit.com/r/reactnative/comments/sc9m0j/i_made_this_app_using_react_native_that_let_you/)
 Play store: [here](https://play.google.com/store/apps/details?id=com.TeamBacon.Stylix)
 
+### Jeti
+
+**Description:** See trending social media around you. 
+
+Reddit Link: [here](https://www.reddit.com/r/reactnative/comments/i9qynz/dreams_really_do_come_true_after_over_two_years/)
+App store: [here](https://apps.apple.com/us/app/id1523579231)
+Play store: [here](https://play.google.com/store/apps/details?id=app.jeti)
+Website: [here](https://jeti.app/)
+
+
